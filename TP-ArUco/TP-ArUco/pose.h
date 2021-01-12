@@ -1,0 +1,1 @@
+void pose(int argc, char** argv);
